@@ -79,7 +79,7 @@ project/
 2. Clonar el repositorio:
 
 ```bash id="p7x3le"
-git clone https://github.com/TU-USUARIO/sistema-erp-pascal.git
+git clone https://github.com/isairey/sistema-erp-pascal.git
 ```
 
 3. Acceder al proyecto:
