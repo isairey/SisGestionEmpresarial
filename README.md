@@ -137,4 +137,4 @@ Desarrollador enfocado en sistemas empresariales y desarrollo de software 🚀
 
 ## 📜 Licencia
 
-Proyecto de uso libre con fines educativos y demostrativos.
+Licencia MIT.
